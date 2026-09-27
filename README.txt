@@ -1,13 +1,15 @@
-# Birthday Gift — Ndoro Ratu Pira
+Birthday Gift — Ndoro Ratu Pira
 
-Data:
+Data sudah dipersonalisasi:
 - Nama: Ndoro Ratu Pira
 - Usia: 17 → 18
 - Ulang tahun: 28 September
 - 19 foto sudah dimasukkan.
 
-`heart-qr.html` adalah generator QR untuk URL publik website. Setelah website di-host, masukkan URL-nya lalu buat QR dan uji scan.
+Upload semua isi folder ini ke repository GitHub Pages.
 
-Musik asli yang user upload tidak didistribusikan di paket. Jika pengguna memiliki hak untuk menggunakan file musik tersebut, simpan file musik milik sendiri sebagai `assets/birthday-track.mp3` agar tombol Music di website dapat memutarnya.
+Musik:
+Website sudah punya tombol Music dan mencari file assets/birthday-track.mp3.
+Karena website GitHub Pages bersifat publik, jangan mengunggah musik berhak cipta kecuali kamu memiliki izin/hak untuk menggunakannya. Jika kamu memiliki hak atas file musikmu, masukkan file tersebut dengan nama persis birthday-track.mp3 ke folder assets.
 
-Teks personal ada di `script.js` pada object `birthdayData`.
+heart-qr.html adalah generator QR bertema hati untuk URL website publik.
